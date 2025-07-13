@@ -24,6 +24,7 @@
 1. Run the script
    ```bash
    python script.py
-  <img width="615" height="110" alt="screenshot" src="https://github.com/user-attachments/assets/8d29aca0-5b34-4084-9b0c-5329952fb219" />
+  <img width="615" height="110" alt="screenshot" src="https://github.com/user-attachments/assets/1f842bb1-895f-465f-b771-d97182e8383e" />
+
    
 
